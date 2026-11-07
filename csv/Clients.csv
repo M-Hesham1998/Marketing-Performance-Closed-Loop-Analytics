@@ -1,0 +1,11 @@
+ClientID,ClientName,Agency,Industry,MonthlyRetainer,MonthlyAdBudget,StartDate,Market
+CL-01,Cairo Dental Group,GROW,Healthcare,1900,2600,2025-04-01,Egypt
+CL-02,NileTech SaaS,GROW,B2B SaaS,2600,3400,2025-04-01,Egypt
+CL-03,Zayn Fashion,Trendlix,E-commerce,1400,4200,2025-04-01,Egypt
+CL-04,Marina Resorts,Trendlix,Hospitality,1750,2800,2025-06-01,Egypt
+CL-05,Hexagon Steel Works,Hexagon,Manufacturing,2200,1800,2025-05-01,Egypt
+CL-06,Delta Solar Installers,Hexagon,Home Services,1600,2000,2025-07-01,Egypt
+CL-07,Capital Motors,Hexagon,Automotive,2400,3200,2025-09-01,Egypt
+CL-08,Tracks Fitness Clubs,Tracks Agency,Fitness,1200,1500,2025-04-01,Egypt
+CL-09,Gulf Aesthetic Clinics,Tracks Agency,Healthcare,3900,5200,2025-11-01,UAE
+CL-10,Oasis Real Estate,Tracks Agency,Real Estate,3400,6000,2026-01-01,UAE

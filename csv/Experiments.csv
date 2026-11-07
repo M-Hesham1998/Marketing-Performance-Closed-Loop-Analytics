@@ -1,0 +1,31 @@
+ExperimentID,ClientID,Hypothesis,Channel,StartDate,Status,Result,Decision,LiftObserved
+EX-001,CL-03,Shorten lead form to 3 fields,Meta,2025-09-05,Completed,Inconclusive,Re-run with more volume,0.305
+EX-002,CL-05,Test WhatsApp CTA vs phone CTA,CRM,2025-06-14,Running,,Pending,0.164
+EX-003,CL-06,Broad targeting vs interest stacks,Landing Page,2026-09-09,Completed,Lost,Revert,0.064
+EX-004,CL-04,Video creative vs static,CRM,2025-11-23,Completed,Won,Roll out,-0.092
+EX-005,CL-10,Landing page with pricing visible,Landing Page,2026-08-04,Completed,Inconclusive,Re-run with more volume,0.046
+EX-006,CL-09,Bid to conversions not clicks,Landing Page,2026-03-10,Completed,Won,Roll out,-0.068
+EX-007,CL-09,Retarget cart abandoners 7d,Google,2026-09-04,Completed,Lost,Revert,0.023
+EX-008,CL-09,Arabic-first ad copy,Landing Page,2026-04-17,Completed,Inconclusive,Re-run with more volume,0.233
+EX-009,CL-09,PMax vs standard Shopping,Landing Page,2025-11-21,Completed,Inconclusive,Re-run with more volume,0.151
+EX-010,CL-09,Lookalike 1% vs 3%,Google,2026-02-11,Running,,Pending,0.099
+EX-011,CL-08,Call-only campaign test,Meta,2026-08-28,Completed,Inconclusive,Re-run with more volume,-0.247
+EX-012,CL-06,Offer discount vs free consultation,Meta,2025-09-22,Completed,Lost,Revert,-0.003
+EX-013,CL-04,Mobile-first LP redesign,Landing Page,2026-08-31,Completed,Lost,Revert,0.059
+EX-014,CL-04,Exclude low-intent placements,LinkedIn,2026-01-10,Completed,Lost,Revert,-0.075
+EX-015,CL-03,Weekend-only budget push,LinkedIn,2025-08-02,Completed,Lost,Revert,-0.031
+EX-016,CL-07,Shorten lead form to 3 fields,Landing Page,2026-05-29,Running,,Pending,-0.166
+EX-017,CL-08,Test WhatsApp CTA vs phone CTA,LinkedIn,2025-10-07,Completed,Won,Roll out,-0.08
+EX-018,CL-08,Broad targeting vs interest stacks,Landing Page,2025-08-09,Completed,Lost,Revert,0.121
+EX-019,CL-02,Video creative vs static,LinkedIn,2026-07-18,Completed,Won,Roll out,-0.062
+EX-020,CL-08,Landing page with pricing visible,Meta,2026-09-06,Completed,Won,Roll out,0.086
+EX-021,CL-02,Bid to conversions not clicks,LinkedIn,2026-07-31,Completed,Won,Roll out,0.166
+EX-022,CL-03,Retarget cart abandoners 7d,Google,2025-07-27,Planned,,Pending,-0.025
+EX-023,CL-06,Arabic-first ad copy,Google,2026-07-13,Completed,Won,Roll out,0.156
+EX-024,CL-10,PMax vs standard Shopping,Google,2026-07-10,Completed,Inconclusive,Re-run with more volume,0.169
+EX-025,CL-06,Lookalike 1% vs 3%,LinkedIn,2025-10-18,Completed,Won,Roll out,0.002
+EX-026,CL-09,Call-only campaign test,Meta,2026-01-10,Completed,Inconclusive,Re-run with more volume,0.167
+EX-027,CL-05,Offer discount vs free consultation,Google,2025-09-05,Planned,,Pending,0.022
+EX-028,CL-10,Mobile-first LP redesign,Landing Page,2026-06-23,Completed,Inconclusive,Re-run with more volume,-0.134
+EX-029,CL-09,Exclude low-intent placements,LinkedIn,2026-08-02,Planned,,Pending,0.075
+EX-030,CL-01,Weekend-only budget push,CRM,2026-08-25,Planned,,Pending,-0.028

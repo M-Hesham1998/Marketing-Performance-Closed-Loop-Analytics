@@ -1,0 +1,57 @@
+CampaignID,ClientID,Platform,CampaignName,Objective,NamingConventionOK
+CP-0001,CL-01,Google,CL-01_Google_Search-Brand_EG,Search-Brand,Yes
+CP-0002,CL-01,Google,CL-01_Google_Retargeting_EG,Retargeting,Yes
+CP-0003,CL-01,Meta,Lead-Gen-Form copy final,Lead-Gen-Form,No
+CP-0004,CL-01,Meta,CL-01_Meta_Search-Brand_EG,Search-Brand,Yes
+CP-0005,CL-01,Meta,CL-01_Meta_Search-Generic_EG,Search-Generic,Yes
+CP-0006,CL-02,Google,CL-02_Google_Awareness_EG,Awareness,Yes
+CP-0007,CL-02,Google,CL-02_Google_Search-Generic_EG,Search-Generic,Yes
+CP-0008,CL-02,Google,CL-02_Google_Prospecting_EG,Prospecting,Yes
+CP-0009,CL-02,Meta,CL-02_Meta_Awareness_EG,Awareness,Yes
+CP-0010,CL-02,Meta,meta-lead-gen-form,Lead-Gen-Form,No
+CP-0011,CL-02,LinkedIn,CL-02_LinkedIn_Awareness_EG,Awareness,Yes
+CP-0012,CL-02,LinkedIn,CL-02_LinkedIn_Search-Brand_EG,Search-Brand,Yes
+CP-0013,CL-02,LinkedIn,new campaign 13,Search-Generic,No
+CP-0014,CL-03,Google,CL-03_Google_Search-Brand_EG,Search-Brand,Yes
+CP-0015,CL-03,Google,Zayn Fashion test,Prospecting,No
+CP-0016,CL-03,Google,CL-03_Google_Retargeting_EG,Retargeting,Yes
+CP-0017,CL-03,Meta,CL-03_Meta_Retargeting_EG,Retargeting,Yes
+CP-0018,CL-03,Meta,CL-03_Meta_Awareness_EG,Awareness,Yes
+CP-0019,CL-04,Google,CL-04_Google_Retargeting_EG,Retargeting,Yes
+CP-0020,CL-04,Google,CL-04_Google_Lead-Gen-Form_EG,Lead-Gen-Form,Yes
+CP-0021,CL-04,Meta,CL-04_Meta_Retargeting_EG,Retargeting,Yes
+CP-0022,CL-04,Meta,CL-04_Meta_Search-Brand_EG,Search-Brand,Yes
+CP-0023,CL-05,Google,CL-05_Google_Search-Generic_EG,Search-Generic,Yes
+CP-0024,CL-05,Google,CL-05_Google_Lead-Gen-Form_EG,Lead-Gen-Form,Yes
+CP-0025,CL-05,Meta,CL-05_Meta_Retargeting_EG,Retargeting,Yes
+CP-0026,CL-05,Meta,CL-05_Meta_Search-Brand_EG,Search-Brand,Yes
+CP-0027,CL-05,Meta,CL-05_Meta_PMax_EG,PMax,Yes
+CP-0028,CL-05,LinkedIn,CL-05_LinkedIn_Search-Brand_EG,Search-Brand,Yes
+CP-0029,CL-05,LinkedIn,CL-05_LinkedIn_Lead-Gen-Form_EG,Lead-Gen-Form,Yes
+CP-0030,CL-05,LinkedIn,CL-05_LinkedIn_Retargeting_EG,Retargeting,Yes
+CP-0031,CL-06,Google,CL-06_Google_Search-Brand_EG,Search-Brand,Yes
+CP-0032,CL-06,Google,google-prospecting,Prospecting,No
+CP-0033,CL-06,Meta,CL-06_Meta_Awareness_EG,Awareness,Yes
+CP-0034,CL-06,Meta,CL-06_Meta_Lead-Gen-Form_EG,Lead-Gen-Form,Yes
+CP-0035,CL-07,Google,google-awareness,Awareness,No
+CP-0036,CL-07,Google,CL-07_Google_Lead-Gen-Form_EG,Lead-Gen-Form,Yes
+CP-0037,CL-07,Google,CL-07_Google_PMax_EG,PMax,Yes
+CP-0038,CL-07,Meta,CL-07_Meta_Lead-Gen-Form_EG,Lead-Gen-Form,Yes
+CP-0039,CL-07,Meta,CL-07_Meta_Awareness_EG,Awareness,Yes
+CP-0040,CL-08,Google,CL-08_Google_Search-Generic_EG,Search-Generic,Yes
+CP-0041,CL-08,Google,CL-08_Google_Awareness_EG,Awareness,Yes
+CP-0042,CL-08,Meta,CL-08_Meta_Search-Brand_EG,Search-Brand,Yes
+CP-0043,CL-08,Meta,PMax copy final,PMax,No
+CP-0044,CL-09,Google,CL-09_Google_PMax_EG,PMax,Yes
+CP-0045,CL-09,Google,CL-09_Google_Search-Brand_EG,Search-Brand,Yes
+CP-0046,CL-09,Google,CL-09_Google_Search-Generic_EG,Search-Generic,Yes
+CP-0047,CL-09,Meta,CL-09_Meta_Search-Generic_EG,Search-Generic,Yes
+CP-0048,CL-09,Meta,CL-09_Meta_Prospecting_EG,Prospecting,Yes
+CP-0049,CL-09,Meta,CL-09_Meta_Awareness_EG,Awareness,Yes
+CP-0050,CL-10,Google,CL-10_Google_Lead-Gen-Form_EG,Lead-Gen-Form,Yes
+CP-0051,CL-10,Google,CL-10_Google_Search-Generic_EG,Search-Generic,Yes
+CP-0052,CL-10,Meta,meta-pmax,PMax,No
+CP-0053,CL-10,Meta,CL-10_Meta_Search-Generic_EG,Search-Generic,Yes
+CP-0054,CL-10,Meta,Oasis Real Estate test,Retargeting,No
+CP-0055,CL-10,LinkedIn,CL-10_LinkedIn_Search-Brand_EG,Search-Brand,Yes
+CP-0056,CL-10,LinkedIn,CL-10_LinkedIn_PMax_EG,PMax,Yes
